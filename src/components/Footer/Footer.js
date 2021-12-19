@@ -9,29 +9,31 @@ const Footer = () => {
     <FooterWrapper>
       <LinkList>
         <LinkColumn>
-        <LinkTitle>Call Me</LinkTitle>
-        <LinkItem href="tel: xxx-xxxxxx">xxx-xxxxxx</LinkItem>
+          <LinkTitle>Call</LinkTitle>
+          <LinkItem href="tel:314-343-3432">314-343-3432</LinkItem>
         </LinkColumn>
         <LinkColumn>
-        <LinkTitle>Email Me</LinkTitle>
-        <LinkItem href="mailto:xietniet@gmail.com">xietniet@gmail.com</LinkItem>
+          <LinkTitle>Email</LinkTitle>
+          <LinkItem href="mailto:contact@jsmastery.com">
+            contact@jsmastery.com
+          </LinkItem>
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Innovating!</Slogan>
+          <Slogan>Innovating one project at a time</Slogan>
         </CompanyContainer>
-      <SocialContainer>
-        <SocialIcons href='https://github.com/Xiet-Dev'>
-        <AiFillGithub size='3rem'/>
-      </SocialIcons>
-      <SocialIcons href='https://www.linkedin.com'>
-        <AiFillLinkedin size='3rem'/>
-      </SocialIcons>
-      <SocialIcons href='https://instagram.com'>
-        <AiFillInstagram size='3rem'/>
-      </SocialIcons>
-      </SocialContainer>
+        <SocialContainer>
+          <SocialIcons href="https://google.com">
+            <AiFillGithub size="3rem" />
+          </SocialIcons>
+          <SocialIcons href="https://google.com">
+            <AiFillLinkedin size="3rem" />
+          </SocialIcons>
+          <SocialIcons href="https://google.com">
+            <AiFillInstagram size="3rem" />
+          </SocialIcons>
+        </SocialContainer>
       </SocialIconsContainer>
     </FooterWrapper>
   );
