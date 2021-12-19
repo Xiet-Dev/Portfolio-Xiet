@@ -1,18 +1,18 @@
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    title: 'Gourmet Restaurant',
+    description: "This site is made for an immaginary gourmet restaurant. This iste is simple, just a stic website made with HTML, CSS and Javascript.",
       image: '/images/1.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
+      tags: ['HTML', 'CSS', 'Javascript'],
     source: 'https://google.com',
     visit: 'https://google.com',
     id: 0,
   },
   {
-    title: 'E-Commerce',
-    description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
+    title: 'New startup',
+    description:"This site in made with HTML, CSS and JAvascript. Also another simple static web site, made for a new start up.",
     image: '/images/2.png',
-    tags: ['React', 'JavaScript'],
+    tags: ['HTML', 'CSS', 'JavaScript'],
     source: 'https://google.com',
     visit: 'https://google.com',
     id: 1,
@@ -38,9 +38,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2019, text: 'Started my journey in web development', },
+  { year: 2020, text: 'Starting with React and NodeJs', },
+  { year: 2021, text: 'Started with my new projects', },
+  { year: 2022, text: 'I will continue studing and doing projects', },
+  { year: 2023, text: 'We will see...', },
 ];
