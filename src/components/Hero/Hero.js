@@ -10,7 +10,7 @@ const Hero = (props) => (
       <LeftSection>
         <SectionTitle main center>
           Hi! I'm Xiet <br />
-          Welcome Personal Portfolio
+          Welcome To My Personal Portfolio
         </SectionTitle>
         <SectionText>
         I am a freelance full stack web developer. I mainly use React.js and Node.js for the realization of the sites.
